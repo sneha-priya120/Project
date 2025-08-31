@@ -1,1 +1,4 @@
-Learning Git
+Line 1: Hello world
+Line 2: Git is awesome
+Line 3: Lets learn version control
+Line 4: This is an example file
