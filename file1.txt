@@ -1,4 +1,5 @@
 Line 1: Hello world
-Line 2: Git is awesome
+Line 2: Git is amazing
 Line 3: Lets learn version control
-Line 4: This is an example file
+Line 4: This is an updated example file
+Line 5: New line added here
